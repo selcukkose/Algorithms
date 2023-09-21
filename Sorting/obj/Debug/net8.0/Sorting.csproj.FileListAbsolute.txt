@@ -1,0 +1,11 @@
+C:\Users\Selcuk_Kose\Documents\Algorithms\Sorting\bin\Debug\net8.0\Sorting.deps.json
+C:\Users\Selcuk_Kose\Documents\Algorithms\Sorting\bin\Debug\net8.0\Sorting.dll
+C:\Users\Selcuk_Kose\Documents\Algorithms\Sorting\bin\Debug\net8.0\Sorting.pdb
+C:\Users\Selcuk_Kose\Documents\Algorithms\Sorting\obj\Debug\net8.0\Sorting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Selcuk_Kose\Documents\Algorithms\Sorting\obj\Debug\net8.0\Sorting.AssemblyInfoInputs.cache
+C:\Users\Selcuk_Kose\Documents\Algorithms\Sorting\obj\Debug\net8.0\Sorting.AssemblyInfo.cs
+C:\Users\Selcuk_Kose\Documents\Algorithms\Sorting\obj\Debug\net8.0\Sorting.csproj.CoreCompileInputs.cache
+C:\Users\Selcuk_Kose\Documents\Algorithms\Sorting\obj\Debug\net8.0\Sorting.dll
+C:\Users\Selcuk_Kose\Documents\Algorithms\Sorting\obj\Debug\net8.0\refint\Sorting.dll
+C:\Users\Selcuk_Kose\Documents\Algorithms\Sorting\obj\Debug\net8.0\Sorting.pdb
+C:\Users\Selcuk_Kose\Documents\Algorithms\Sorting\obj\Debug\net8.0\ref\Sorting.dll
