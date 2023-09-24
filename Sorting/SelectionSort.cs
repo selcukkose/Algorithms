@@ -7,6 +7,8 @@ public class SelectionSort : ISort
 {
     public List<int> Sort(List<int> list)
     {
+        if (list == null) return new List<int>();
+
         var array = list.ToArray();
 
         for (int index = 0; index < array.Length; index++)
