@@ -98,3 +98,6 @@ C:\Users\Selcuk_Kose\Documents\Algorithms\UnitTesting\obj\Debug\net8.0\refint\Un
 C:\Users\Selcuk_Kose\Documents\Algorithms\UnitTesting\obj\Debug\net8.0\UnitTesting.pdb
 C:\Users\Selcuk_Kose\Documents\Algorithms\UnitTesting\obj\Debug\net8.0\UnitTesting.genruntimeconfig.cache
 C:\Users\Selcuk_Kose\Documents\Algorithms\UnitTesting\obj\Debug\net8.0\ref\UnitTesting.dll
+C:\Users\Selcuk_Kose\Documents\Algorithms\UnitTesting\bin\Debug\net8.0\CoverletSourceRootsMapping_UnitTesting
+C:\Users\Selcuk_Kose\Documents\Algorithms\UnitTesting\bin\Debug\net8.0\Sorting.dll
+C:\Users\Selcuk_Kose\Documents\Algorithms\UnitTesting\bin\Debug\net8.0\Sorting.pdb
