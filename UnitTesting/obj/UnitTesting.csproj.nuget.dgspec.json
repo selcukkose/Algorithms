@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Selcuk_Kose\\Documents\\Algorithms\\UnitTesting\\UnitTesting.csproj": {}
+    "C:\\Users\\Selcuk_Kose\\Documents\\Algorithms\\UnitTesting\\UnitTesting.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Selcuk_Kose\\Documents\\Algorithms\\UnitTesting\\UnitTesting.csproj": {
+    "C:\\Users\\Selcuk_Kose\\Documents\\Algorithms\\UnitTesting\\UnitTesting.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Selcuk_Kose\\Documents\\Algorithms\\UnitTesting\\UnitTesting.csproj",
+        "projectUniqueName": "C:\\Users\\Selcuk_Kose\\Documents\\Algorithms\\UnitTesting\\UnitTesting.csproj",
         "projectName": "UnitTesting",
-        "projectPath": "c:\\Users\\Selcuk_Kose\\Documents\\Algorithms\\UnitTesting\\UnitTesting.csproj",
+        "projectPath": "C:\\Users\\Selcuk_Kose\\Documents\\Algorithms\\UnitTesting\\UnitTesting.csproj",
         "packagesPath": "C:\\Users\\Selcuk_Kose\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Selcuk_Kose\\Documents\\Algorithms\\UnitTesting\\obj\\",
+        "outputPath": "C:\\Users\\Selcuk_Kose\\Documents\\Algorithms\\UnitTesting\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Selcuk_Kose\\Documents\\Algorithms\\Sorting\\Sorting.csproj": {}
+    "C:\\Users\\Selcuk_Kose\\Documents\\Algorithms\\Sorting\\Sorting.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Selcuk_Kose\\Documents\\Algorithms\\Sorting\\Sorting.csproj": {
+    "C:\\Users\\Selcuk_Kose\\Documents\\Algorithms\\Sorting\\Sorting.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Selcuk_Kose\\Documents\\Algorithms\\Sorting\\Sorting.csproj",
+        "projectUniqueName": "C:\\Users\\Selcuk_Kose\\Documents\\Algorithms\\Sorting\\Sorting.csproj",
         "projectName": "Sorting",
-        "projectPath": "c:\\Users\\Selcuk_Kose\\Documents\\Algorithms\\Sorting\\Sorting.csproj",
+        "projectPath": "C:\\Users\\Selcuk_Kose\\Documents\\Algorithms\\Sorting\\Sorting.csproj",
         "packagesPath": "C:\\Users\\Selcuk_Kose\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Selcuk_Kose\\Documents\\Algorithms\\Sorting\\obj\\",
+        "outputPath": "C:\\Users\\Selcuk_Kose\\Documents\\Algorithms\\Sorting\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
