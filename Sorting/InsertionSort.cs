@@ -7,6 +7,8 @@ public class InsertionSort : ISort
 {
     public List<int> Sort(List<int> list)
     {
+        if (list == null) return new List<int>();
+
         var array = list.ToArray();
 
         for (int i = 0; i < array.Length; i++)

@@ -9,3 +9,4 @@ C:\Users\Selcuk_Kose\Documents\Algorithms\Sorting\obj\Debug\net8.0\Sorting.dll
 C:\Users\Selcuk_Kose\Documents\Algorithms\Sorting\obj\Debug\net8.0\refint\Sorting.dll
 C:\Users\Selcuk_Kose\Documents\Algorithms\Sorting\obj\Debug\net8.0\Sorting.pdb
 C:\Users\Selcuk_Kose\Documents\Algorithms\Sorting\obj\Debug\net8.0\ref\Sorting.dll
+C:\Users\Selcuk_Kose\Documents\Algorithms\Sorting\obj\Debug\net8.0\Sorting.sourcelink.json
